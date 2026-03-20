@@ -16,7 +16,7 @@ Une API REST simple construite avec **Express** et **Mongoose** pour gérer une 
 
 1.  **Cloner le dépôt** :
     ```bash
-    git clone <mon lien github>
+    git clone https://github.com/shadownathan/blog-api-node.git
     cd projetapi
     ```
 
