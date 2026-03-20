@@ -1,4 +1,4 @@
-# 🚀API de Gestion d'Articles (Node.js & MongoDB)
+# API de Gestion d'Articles (Node.js & MongoDB)
 
 Une API REST robuste construite avec **Node.js**, **Express** et **Mongoose** pour gérer une collection d'articles technologiques. Ce projet inclut une protection des données via variables d'environnement et une gestion complète du CRUD.
 
@@ -29,5 +29,5 @@ Une API REST robuste construite avec **Node.js**, **Express** et **Mongoose** po
 
 ### 1. Cloner le projet
 ```bash
-git clone [https://github.com/shadownathan/blog-api-node.git](https://github.com/shadownathan/blog-api-node.git)
+git clone (https://github.com/shadownathan/blog-api-node.git)
 cd projetapi
